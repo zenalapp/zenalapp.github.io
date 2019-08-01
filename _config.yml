@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kelly L. Sovacool"
+title                    : "Zena Lapp"
 title_separator          : "-"
-name                     : &name "Kelly L. Sovacool"
+name                     : &name "Zena Lapp"
 description              : &description "Bioinformatics PhD Student at the University of Michigan"
-url                      : https://sovacool.dev
+url                      : https://zmml.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kelly-sovacool/kelly-sovacool.github.io"
+repository               : "zmml/zmml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kelly Sovacool"
-  avatar           : "profile.png"
+  name             : "Zena Lapp"
+  avatar           : 
   bio              : "Bioinformatics PhD Student at U-M"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TlglgLgAAAAJ"
-  email            : "kelly@sovacool.dev"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en&oi=ao"
+  email            : "zenalapp@umich.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kelly-sovacool"
+  github           : "zmml"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/kelly-sovacool/
-  orcid            : https://orcid.org/0000-0003-3283-829X
+  linkedin         : https://www.linkedin.com/in/zenalapp/
+  orcid            : https://orcid.org/0000-0003-4674-2176
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/5787827/kelly-sovacool
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "kelly_sovacool"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
