@@ -11,9 +11,9 @@ title                    : "Zena Lapp"
 title_separator          : "-"
 name                     : &name "Zena Lapp"
 description              : &description "Bioinformatics PhD Student at the University of Michigan"
-url                      : https://zmml.github.io
+url                      : https://zenalapp.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zmml/zmml.github.io"
+repository               : "zenalapp/zenalapp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zmml"
+  github           : "zenalapp"
   google_plus      :
   keybase          :
   instagram        :
