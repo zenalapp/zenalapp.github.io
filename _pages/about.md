@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m pursuing a PhD in Bioinformatics in [Evan Snitkin’s lab](https://thesnitkinlab.com/) at the University of Michigan. I graduated with a BA in biochemistry and molecular biology from the College of Wooster. I use a combination of R and Python to study infectious disease transmission, infection, and antibiotic resistance evolution. I'm involved with [Software Carpentry](https://carpentries.org/) and a local chapter of [Girls Who Code](http://umich.edu/~girlswc/) where we teach high school girls computational data analysis using Python. I am also a coordinator of the [Data Analysis Networking Group (DANG)](https://um-dang.github.io/) here at the University of Michigan.
+I am pursuing a dual degree in Bioinformatics (PhD) and Statistics (MS) at the University of Michigan studying infectious disease transmission, infection, and evolution of antibiotic resistance in [Evan Snitkin’s lab](https://thesnitkinlab.com/) using R and Python. 
 
-When I’m not in lab, I love to be outdoors. You’ll most likely find me swimming in the pool, riding my bike, or running in the park!
+I'mm interested in applying my data science skills to pressing global issues including health, poverty, and sustainable development.
+
+I co-founded a [Girls Who Code](http://umich.edu/~girlswc/) club at the University of Michigan where we teach high school girls computational data analysis using Python, instruct [Software Carpentry](https://carpentries.org/) workshops, was a coordinator of the [Data Analysis Networking Group (DANG)](https://um-dang.github.io/), and lead various coding activities for grade school children.
+
+When I’m not working, I enjoy climbing, running in the park, and generally being outdoors!
