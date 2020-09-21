@@ -14,4 +14,4 @@ I am pursuing a dual degree in Bioinformatics (PhD) and Statistics (MS) at the U
 
 I co-founded a [Girls Who Code](http://umich.edu/~girlswc/) club at the University of Michigan where we teach high school women computational data analysis using Python, instruct [Software Carpentry](https://carpentries.org/) workshops, helped coordinate the [Data Analysis Networking Group (DANG)](https://um-dang.github.io/), and lead various coding activities for grade school children.
 
-When I’m not working, I enjoy climbing, running in the park, and generally being outdoors!
+When I’m not working, I enjoy running in the park, climbing, and generally being outdoors!
