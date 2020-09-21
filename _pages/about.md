@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a dual degree in Bioinformatics (PhD) and Statistics (MS) at the University of Michigan studying infectious disease transmission, infection, and evolution of antibiotic resistance in [Evan Snitkin’s lab](https://thesnitkinlab.com/). 
+I am pursuing a dual degree in Bioinformatics (PhD) and Statistics (MS) at the University of Michigan studying infectious disease transmission, infection, and antibiotic resistance evolution in [Evan Snitkin’s lab](https://thesnitkinlab.com/). 
 
 <!-- I'm interested in applying my data science skills to pressing global issues including health, poverty, and sustainable development. -->
 
