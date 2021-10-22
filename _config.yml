@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zena Lapp"
 title_separator          : "-"
 name                     : &name "Zena Lapp"
-description              : &description "Postdoctoral Associate at the Duke Global Health Institute"
+description              : &description "Postdoctoral Associate at Duke Global Health Institute"
 url                      : https://zenalapp.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zenalapp/zenalapp.github.io"
