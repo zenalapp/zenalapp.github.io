@@ -10,7 +10,7 @@ redirect_from:
 
 **Current**
 
-I'm a Postdoctoral Associate at Duke University studying malaria parasite transmission between humans and mosquitos with [Steve Taylor](https://sites.duke.edu/taylorlab/) and [Wendy Prudhomme-O'Meara](https://sites.duke.edu/wpomeara/).
+I'm a Postdoctoral Associate at the Duke Global Health Institute studying malaria parasite transmission between humans and mosquitos with [Steve Taylor](https://sites.duke.edu/taylorlab/) and [Wendy Prudhomme-O'Meara](https://sites.duke.edu/wpomeara/).
 
 When I’m not working, I enjoy backpacking, climbing, running in the park, playing soccer and tennis, and generally being outdoors!
 
