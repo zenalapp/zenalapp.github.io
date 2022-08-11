@@ -12,6 +12,8 @@ redirect_from:
 
 I'm a Postdoctoral Associate at the Duke Global Health Institute studying malaria parasite transmission between humans and mosquitos with [Steve Taylor](https://sites.duke.edu/taylorlab/) and [Wendy Prudhomme-O'Meara](https://sites.duke.edu/wpomeara/).
 
+I recently co-led the first [DiscovR workshop](https://duke-malaria-collaboratory.github.io/DiscovR/) to teach data managers in Kenya foundational data analysis and visualization skills in R.
+
 When I’m not working, I enjoy backpacking, climbing, running in the park, playing soccer and tennis, and generally being outdoors!
 
 **Past**
