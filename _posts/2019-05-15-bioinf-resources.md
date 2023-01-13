@@ -48,6 +48,7 @@ All of the resources linked below are free unless otherwise noted. This isn't in
 - [GWC Code demos](https://github.com/GWC-DCMB/codeDemos): introductory Python demos - [Girls Who Code @ UM-DCMB](http://umich.edu/~girlswc/)
 - [GWC Challenge Questions](https://github.com/GWC-DCMB/challengeQuestions): practice solving problems - [Girls Who Code @ UM-DCMB](http://umich.edu/~girlswc/)
 - [Python For Everybody](https://www.coursera.org/specializations/python) course on Coursera (free for UMich students) - Charles Severance
+- [Learn Python In Detail](https://www.scaler.com/topics/python/): Free course on Scaler topic with detailed explanation.
 - [Object-Oriented Programming (OOP) in Python](https://realpython.com/python3-object-oriented-programming/) tutorial - RealPython
 - Books:
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
