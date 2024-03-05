@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zena Lapp"
 title_separator          : "-"
 name                     : &name "Zena Lapp"
-description              : &description "Postdoctoral Associate at Duke Global Health Institute"
+description              : &description "Director's Postdoctoral Fellow at Los Alamos National Lab"
 url                      : https://zenalapp.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zenalapp/zenalapp.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zena Lapp"
   avatar           : "lapp.jpg"
-  bio              : "Postdoctoral Associate at Duke Global Health Institute"
-  location         : "Durham, NC"
+  bio              : "Director's Postdoctoral Fellow at Los Alamos National Lab"
+  location         : "Los Alamos, NM"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en&oi=ao"
